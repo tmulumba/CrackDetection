@@ -1,0 +1,8 @@
+keras>=2.2.0
+keras-applications>=1.0.7,<=1.0.8
+image-classifiers==1.0.*
+efficientnet==1.1.*
+tensorflow >= 1.13
+segmentation-models>=1.0.1
+numpy
+opencv-python
