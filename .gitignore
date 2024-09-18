@@ -1,2 +1,5 @@
 detect/
 data/
+todos/
+/results/
+utils/__pycache__/

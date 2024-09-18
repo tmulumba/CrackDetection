@@ -6,3 +6,4 @@ tensorflow >= 1.13
 segmentation-models>=1.0.1
 numpy
 opencv-python
+matplotlib  # Added matplotlib

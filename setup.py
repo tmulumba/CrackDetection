@@ -5,9 +5,10 @@ setup(
     version='0.1',
     packages=find_packages(),
     install_requires=[
-        'segmentation-models',
         'numpy',
         'tensorflow',
         'opencv-python',
+        'segmentation-models',
+        'matplotlib',  # Added matplotlib
     ],
 )
