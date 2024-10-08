@@ -26,6 +26,9 @@ def load_data(data_dir, resize_dim: Tuple[int, int] = (384, 384)):
         # Load image
         img_path = os.path.join(img_dir, img_name)
         img = cv2.imread(img_path)
+        if img is None:
+            print(f"Failed to load image: {img_path}")
+            continue
         img = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
         img = cv2.resize(img, resize_dim)  # Resize to a fixed size
         images.append(img)
