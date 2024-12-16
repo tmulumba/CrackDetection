@@ -160,17 +160,14 @@ Required format for all AE data:
 
 ## Data Availability by Thesis
 
-### AlDajani 2022
+### AlDajani 2022: Hydraulic Fracturing Behavior of Opalinus Shale: A Framework, Experimentation & Insights
 - Primary focus: Opalinus Shale
 - Key data: High-resolution images, AE data, detailed material properties
-- Unique contribution: Comprehensive shale analysis with bedding effects
 
-### Li 2019
+### Li 2019: Microseismic and real-time imaging of fractures and microfractures in barre granite and opalinus clayshale.
 - Primary focus: Barre Granite and Opalinus Clayshale
 - Key data: High-speed video, detailed AE analysis, DIC measurements
-- Unique contribution: Comparative analysis across rock types
 
-### Gonçalves 2016
-- Primary focus: Multiple rock types including Vaca Muerta shale
+### Gonçalves 2016: Fracturing processes and induced seismicity due to the hydraulic fracturing of rocks.
+- Primary focus: Barre Granite, Vaca Muerta shale, Opalinus Shale
 - Key data: AE waveforms, high-speed video
-- Unique contribution: Detailed fracturing process analysis
