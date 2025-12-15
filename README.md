@@ -94,15 +94,6 @@ activation = 'sigmoid'          # Binary segmentation
 encoder_weights = 'imagenet'    # Pre-trained weights
 ```
 
-## Dependencies
-
-- TensorFlow ≥1.13
-- segmentation-models ≥1.0.1
-- OpenCV
-- NumPy
-- Matplotlib
-- Keras ≥2.2.0
-
 ## License
 
 MIT
