@@ -3,3 +3,4 @@ data/
 todos/
 /results/
 utils/__pycache__/
+.DS_Store

@@ -98,7 +98,7 @@ for name, sm_model in models.items():
     predictions = model.predict(x_test)
 
     # Visualize results for the first 5 images
-    for i in range(5):
+    for i in range(8):
         original_image = x_test[i]
         true_mask = y_test[i]
         pred_mask = predictions[i]
